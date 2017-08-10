@@ -17,9 +17,9 @@ Glyph
 
 One or more shapes that may be combined into a grapheme.
 
-In Latin, a glyph often has 2 variants like 'A' and 'a' and Arabic often has four. This term is context dependent and different styles or formats can be considered different glyphs.
+In Latin, a glyph often has 2 variants like "A" and "a" and Arabic often has four. This term is context dependent and different styles or formats can be considered different glyphs.
 
-Most relevant in programming is that diacritic marks (e.g. accents like ` and ^) are also glyphs, which are sometimes represented with another at one point, like the à in ISO 8859-1 or as two separate glyphs, so an a and the combining ` (U+0300 and U+0061 combined as U+00E0).
+Most relevant in programming is that diacritic marks (e.g. accents like ` and ^) are also glyphs, which are sometimes represented with another at one point, like "à" in ISO 8859-1 or as two separate glyphs "a" and the combining "`" (U+0300 and U+0061, combined as U+00E0).
 
 .. _code point:
 
